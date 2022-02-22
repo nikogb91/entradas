@@ -5,10 +5,10 @@
   {
     // Constantes
     const VERSION = 4;
-    const EVENTO = 'biz175';
-    const NUM_FECHA = 2;
-    const TIPO_TICKET_ID_MIN = 10;
-    const TIPO_TICKET_ID_MAX = 12;
+    const EVENTO = 'byn101';
+    const NUM_FECHA = 1;
+    const TIPO_TICKET_ID_MIN = 1;
+    const TIPO_TICKET_ID_MAX = 24;
     const BASE_FETCH_PARAMS = {
       headers: { "content-type": "application/json" },
       method: "POST",
